@@ -1,2 +1,2 @@
-﻿# PROF-ELECT-WS11
+# PROF-ELECT-WS11
 ## Antoniette Ladesma
